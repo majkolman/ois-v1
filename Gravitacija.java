@@ -1,5 +1,10 @@
+import java.util;
+
 public class Gravitacija {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in());
+        double nadmorskaVisina = sc.nextDouble();
+
     }
     public static double izracun(double v) {
         final double C = 6.674 * Math.pow(10, -11);
