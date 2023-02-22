@@ -7,6 +7,5 @@ public class Gravitacija {
         final double r = 6.371 * Math.pow(10, 6);
 
         return (C*M)/((r+v)*(r+v));
-        a;
     }
 }
